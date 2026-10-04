@@ -1,0 +1,313 @@
+{
+  "abala": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "abalá": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "abála": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "bagong": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "bágong": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "baka": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "bakâ": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true},
+      "báka": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["maragsa", "malumay"]
+  },
+  "bilang": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "biláng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "bílang": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "buhay": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "buháy": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "búhay": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "bukas": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "bukás": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "búkas": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "butas": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "butás": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "bútas": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "dating": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "datíng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "dáting": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "gabi": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "gabí": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "gábi": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "galing": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "galíng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "gáling": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "galit": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "galít": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "gálit": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "gamit": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "gamít": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "gámit": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "huli": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "hulí": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "húli": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "huling": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "hulíng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "húling": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "ika": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "ikà": {"bigkas": "malumi", "stress": "penultimate", "glottal": true},
+      "iká": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumi", "mabilis"]
+  },
+  "kabilang": {
+    "asymmetry_type": "Moderate",
+    "variants": {
+      "kabilâng": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true},
+      "kabílang": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["maragsa", "malumay"]
+  },
+  "kaibigan": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "kaibígan": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "kasama": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "kasamâ": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true},
+      "kasáma": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["maragsa", "malumay"]
+  },
+  "kaya": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "kayâ": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true},
+      "káya": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["maragsa", "malumay"]
+  },
+  "kilala": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "kilalá": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "kilála": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "kita": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "kitá": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "kíta": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "lalaki": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "lalakí": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "laláki": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "lamang": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "lamáng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "lámang": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "madaling": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "madalîng": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true}
+    },
+    "bigkas_tags": ["maragsa"]
+  },
+  "nasa": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "nása": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "paano": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "paáno": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "pagod": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "pagód": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "págod": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "pala": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "palá": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "pála": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "pamahalaan": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "pámahalaán": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis"]
+  },
+  "panalo": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "panálo": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "pangulong": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "pangulóng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "pangúlong": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "patuloy": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "patúloy": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["malumay"]
+  },
+  "puno": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "punò": {"bigkas": "malumi", "stress": "penultimate", "glottal": true},
+      "punô": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true}
+    },
+    "bigkas_tags": ["malumi", "maragsa"]
+  },
+  "sakit": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "sakít": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis"]
+  },
+  "sasakyan": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "sasakyán": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "sasákyan": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "silang": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "siláng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "sílang": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "takot": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "takót": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "tákot": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "taong": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "taóng": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "táong": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "tapos": {
+    "asymmetry_type": "Workable",
+    "variants": {
+      "tapós": {"bigkas": "mabilis", "stress": "ultimate", "glottal": false},
+      "tápos": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["mabilis", "malumay"]
+  },
+  "tayo": {
+    "asymmetry_type": "Extreme",
+    "variants": {
+      "tayô": {"bigkas": "maragsa", "stress": "ultimate", "glottal": true},
+      "táyo": {"bigkas": "malumay", "stress": "penultimate", "glottal": false}
+    },
+    "bigkas_tags": ["maragsa", "malumay"]
+  }
+}

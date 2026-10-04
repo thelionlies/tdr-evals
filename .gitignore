@@ -1,0 +1,7 @@
+outputs/
+reparse_outputs.py
+analysis/mcq_results.csv
+analysis/recon_results.csv
+.venv/
+__pycache__/
+*.pyc
