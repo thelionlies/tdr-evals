@@ -1,7 +1,6 @@
 outputs/
 reparse_outputs.py
-analysis/mcq_results.csv
-analysis/recon_results.csv
+analysis/
 .venv/
 __pycache__/
 *.pyc
